@@ -3,6 +3,7 @@ libname CSML cas;
 
 %global MATID;
 %global PLANT;
+%put test;
 
 proc sql noprint;
 create table work.data as
