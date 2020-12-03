@@ -4,6 +4,8 @@ options nonotes;
 cas casauto;
 caslib _all_ assign;
 
+/* Newline*/
+
 /* Setting variables */
 %global selected_year;
 %global viyahost;
